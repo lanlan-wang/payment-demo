@@ -1,0 +1,11 @@
+# 服务端口
+server:
+  port: 8090
+
+spring:
+  application:
+    name: paymentdemo # 应用名称
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
